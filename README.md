@@ -1,6 +1,6 @@
 # induction-sandbox
 
-# Parsing the corpus
+### Parsing the corpus
 
 install pyStatParser, which uses Probabilistic Context-Free Grammars (PCFG) from QuestionBank and Penn Tree Bank.
 
